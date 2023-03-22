@@ -1,4 +1,4 @@
-package `03DestructuringDeclarations `
+package `03DestructuringDeclarations`
 
 data class DataUser(val name: String, val age: Int)
 

@@ -7,6 +7,4 @@ fun main() {
 
     println(anyList)
     println(anyList[1])
-
-
 }

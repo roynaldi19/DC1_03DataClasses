@@ -1,7 +1,5 @@
 package `02MenyalinMemodifikasiDataClass`
 
-
-
 data class DataUser(val name: String, val age: Int)
 
 fun main() {
@@ -10,6 +8,4 @@ fun main() {
 
     println(dataUser)
     println(dataUser2)
-
-
 }

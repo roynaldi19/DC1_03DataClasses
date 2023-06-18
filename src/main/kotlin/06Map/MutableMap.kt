@@ -1,7 +1,7 @@
 package `06Map`
 
 fun main() {
-    var mutableCapital = mutableMapOf(
+    val mutableCapital = mutableMapOf(
         "Jakarta" to "Indonesia",
         "London" to "England",
         "New Delhi" to "India"
